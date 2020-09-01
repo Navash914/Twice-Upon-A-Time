@@ -1,0 +1,139 @@
+
+<Yanfly Engine Plugins Link: http://yanfly.moe/>
+<Atelier RGSS Link: https://atelierrgss.wordpress.com/>
+<SumRndmDde Link: http://sumrndm.site/>
+<HimeWorks Link: http://himeworks.com/>
+<Galv Link: galv-scripts.com>
+
+
+<Yanfly Engine Plugins Description>
+Visit Yanfly.moe for awesome plugins!
+ \c[17]http://yanfly.moe/\c[0]
+</Yanfly Engine Plugins Description>
+
+<Atelier RGSS Description>
+Get Moghunter's amazing plugins!
+ \c[17]https://atelierrgss.wordpress.com/\c[0]
+</Atelier RGSS Description>
+
+<SumRndmDde Description>
+Visit for more random plugins!
+ \c[17]http://sumrndm.site/\c[0]
+</SumRndmDde Description>
+
+<HimeWorks Description>
+View Hime's amazing works:
+ \c[17]http://himeworks.com/\c[0]
+</HimeWorks Description>
+
+<Galv Description>
+Get Galv's awesome MV Plugins!
+ \c[17]galv-scripts.com\c[0]
+</Galv Description>
+
+<Miscellaneous Coders Description>
+Other Plugin Creators whose works
+were invaluable to the project:
+
+\c[17]Atreyo Ray
+\c[17]Bobstah
+\c[17]Hudell
+\c[17]Shaz
+\c[17]Iavra
+\c[17]Khas
+\c[17]Terrax
+\c[17]mjshi
+\c[17]Estriole
+\c[17]Masked
+\c[17]Amuseum
+\c[17]DragoonKain
+\c[17]Nelderson
+\c[17]Dekita\c[0]
+</Miscellaneous Coders Description>
+
+
+
+
+<Wingless-Seraph Link: wingless-seraph.net/>
+<Fesliyan Studios Link: http://www.fesliyanstudios.com/>
+
+<Wingless-Seraph Description>
+Visit Wingless-Seraph for awesome and
+free RPG Music!
+ \c[17]wingless-seraph.net/\c[0]
+</Wingless-Seraph Description>
+
+<Fesliyan Studios Description>
+Visit FesliyanStudios for awesome
+and free Music!
+ \c[17]www.fesliyanstudios.com/\c[0]
+</Fesliyan Studios Description>
+
+
+
+
+<Celianna Link:https://pixanna.nl/>
+<Hadecynn Link: https://hadecynn.wordpress.com/>
+<Avery Link: https://forums.rpgmakerweb.com/index.php?threads/avys-mv-stuff.53317/>
+<Thalzon Link: https://forums.rpgmakerweb.com/index.php?threads/thalzons-mv-battlers.46685/>
+<Akashics Link: http://www.akashics.moe/>
+
+
+
+<Akashics Description>
+Get Akashic's awesome free battlers!
+ \c[17]http://www.akashics.moe/
+</Akashics Description>
+
+<Hadecynn Description>
+Get Hadecynn's awesome animations!
+ \c[17]https://hadecynn.wordpress.com/
+</Hadecynn Description>
+
+<Celianna Description>
+Visit Pixanna for the best tilesets!
+ \c[17]https://pixanna.nl/
+</Celianna Description>
+
+<Thalzon Description>
+\c[17]Get Thalzon's amazing MV Battlers!
+</Thalzon Description>
+
+<Avery Description>
+\c[17]Get Avery's amazing resources!
+</Avery Description>
+
+<Miscellaneous Artists Description>
+Other Artists whose works
+were invaluable to the project:
+
+\c[17]Cintronic     rgangsta
+\c[17]LexusX        Zinx10
+\c[17]hiddenone     SkottyTV
+\c[17]Point08
+\c[17]Haydeos
+\c[17]MrPyramid
+\c[17]Franco Giachetti (www.ludicarts.com/)
+\c[17]pbmojART
+\c[17]Blarumyrran
+\c[17]Craftpix (https://craftpix.net/)
+\c[17]Chaos17
+\c[17]Dainiri
+\c[17]Guyver IV
+\c[17]Aha-soft (http://www.aha-soft.com)\c[0]
+</Miscellaneous Artists Description>
+
+
+
+<Kadokawa Link: http://www.rpgmakerweb.com/products/programs/rpg-maker-mv>
+
+<Kadokawa Description>
+Special thanks to Kadokawa for
+supporting \c[17]RPG Maker MV\c[0], a wonderful
+piece of software that lets you create
+the role playing game of your dreams!
+</Kadokawa Description>
+
+
+
+

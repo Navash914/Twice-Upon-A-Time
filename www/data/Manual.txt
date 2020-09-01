@@ -1,0 +1,646 @@
+<main entries> Introduction; Gameplay; Battle
+
+
+# Upon Entry
+
+<name> Introduction
+#<icon> 407
+<text>
+Welcome to the \c[17]In Game Help File\c[0]!
+Here, you'll find all the information you will need in your adventures!
+If you're confused about certain elements, you're in the right place!
+
+Any Tutorial you come across is automatically updated into this file.
+
+
+\c[14]*Note: This guide is still WIP.\c[0]
+<end entry>
+
+
+#Gameplay
+
+<name> Gameplay
+#<icon> 509
+<subentries> Basic Controls; Map Interaction; Menu Commands I; Menu Commands II; Treasure Chests; Save Points
+<text>
+Here, you'll find information about all the \c[17]Gameplay Elements\c[0] of the game.
+<end entry>
+
+# Basic Movement
+
+<name> Basic Controls
+#<icon> 485
+<picture> keyboardkeys; left; true
+<text>
+                       \fs[16](Controls Listed Here Are Default Controls)\fs[20]
+You can use the \c[14]Arrow Keys\c[0] to move around the map.
+
+Holding down the \c[14]Shift Key\c[0] allows you \c[14]Dash\c[0], moving across the map faster.
+
+The \c[14]Z Key\c[0] is the \c[14]Action Button\c[0]. This button allows you to talk with other
+characters and interact with map elements.
+
+The \c[14]X Key\c[0] is the \c[14]Menu/Cancel\c[0] button. While on the map, this button brings up
+the menu. While in the menu and other suitable situations, it also acts as a
+cancel/back key.
+
+
+
+
+       \c[14]Movement                   Dash                Action       Menu/Cancel\c[0]
+<end entry>
+
+# Menu Commands
+
+<name> Menu Commands I
+#<icon> 2464
+<title> Menu Commands
+<picture> menucommands; left; true
+<text>
+The main menu is brought up by pressing the \c[14]X Key\c[0] (Default).
+
+                                  The \c[17]Item Command\c[0] allows you to view (and use, 
+                                    if available) all your currently owned 
+                                    Consumables, Equipments and Valuables.
+
+                                  The \c[17]Skill Command\c[0] allows you to view all your
+                                    Learned Skills and Passives.
+
+                                  The \c[17]Equip Command\c[0] allows you customize your
+                                    equipment and view Passive Mastery progress.
+
+                                  The \c[17]Status Command\c[0] opens the \c[14]Status Screen\c[0],
+                                    which shows all the parameters of your
+                                    character.
+                                                                        \fs[14]\fiContinued...
+<end entry>
+
+<name> Menu Commands II
+#<icon> 2464
+<title> Menu Commands
+<picture> menucommandsright; left; true
+<text>
+
+The \c[17]Formation Command\c[0] allows you to change
+  the composition and position of your party.
+
+The \c[17]Help File Command\c[0] opens up this help file!
+
+The \c[17]Options Command\c[0] allows you to customize
+  certain game settings to better suit your needs.
+
+The \c[17]Save Command\c[0] allows you to save your
+  progress. Be sure to use this often!
+
+The \c[17]End Game Command\c[0] allows you to exit
+  to the \c[14]Title Screen\c[0] when you're done playing.
+  Be sure to \c[17]save\c[0] before you leave!
+<end entry>
+
+# Map Interaction
+
+<name> Map Interaction
+#<icon> 402
+<picture> mapinteraction; left; true
+<text>
+The \c[14]Action Button\c[0] allows you to interact with map elements in many ways.
+
+You can talk to people, jump over obstacles, light torches etc.
+If you see something interesting, press the \c[14]Action Button\c[0] next to it!
+<end entry>
+
+# Treasure Chests
+
+<name> Treasure Chests
+#<icon> 2192
+<picture> treasurechests; left; true
+<text>
+\c[17]Treasure Chests\c[0] contain valuable items to aid in your adventure.
+
+
+
+
+
+\i[2192]\c[18]Red Chests\c[0] contain \c[17]Consumables and Gold\c[0].<br>
+\i[2194]\c[3]Green Chests\c[0] contain \c[17]Equipment\c[0], like Weapons, Armors, Accessories etc.<br>
+\i[2195]\c[1]Blue Chests\c[0] contain \c[17]Valuables\c[0]. These are important items that may be
+       required to progress.
+
+\i[2193]\c[14]Golden Chests\c[0] are rare and may contain very
+       \c[17]special\c[0] items.
+<end entry>
+
+# Save Points
+
+<name> Save Points
+#<icon> 2227
+<picture> savepoints; left; true
+<text>
+Although you can save anytime from the menu, \c[17]Save Points\c[0] can be found in
+  various areas. These act as a reminder to save your progress.
+
+Usually, it means a difficult battle could be soon.
+
+
+   \i[2227]\c[1]Blue Save Points\c[0] only allow you to
+               save your progress.
+
+
+
+
+                                   \i[2226]\c[3]Green Save Points\c[0] also heal
+                                              your entire party.
+<end entry>
+
+
+
+
+
+
+
+# Battle
+
+<name> Battle
+#<icon> 396
+<subentries> Battle Basics; Battle Commands I; Battle Commands II; Stats; Skills; Equipments; Party Limit Gauge; Elements; Enemy Classes; Status Effects 
+<text>
+Here, you'll find information about all \c[17]Battle Related Elements\c[0] of the game.
+<end entry>
+
+# Basics
+
+<name> Battle Basics
+<picture> turnorder; left; true
+<text>
+\c[1]Twice Upon A Time\c[0] uses a \c[17]Turn Based Battle System\c[0].
+
+Each battler acts immediately when their turn arrives.
+
+\c[17]Turn Order\c[0] is determined by the battler's agility.<br>
+
+The Turn Order is displayed at the top right corner.
+<end entry>
+
+# Battle Commands
+
+<name> Battle Commands I
+<title> Battle Commands
+<picture> actorcommands; left; true
+<text>
+The \c[14]Battle Commands\c[0] are the commands available during battle.
+Upon the start of your character's turn, you get to choose from the
+  following \c[17]Actor Commands\c[0]:
+                      \py[150]\c[14]Attack\c[0]: Causes your character to use their basic attack.
+                      \c[14]Guard\c[0]: Causes our character to guard, reducing incoming
+                         damage by 50%.
+\py[250]\c[14]Combat/Special/Magic/Break\c[0]:
+Opens the Skill List for the chosen type to choose
+  from the skills your character learned of that type.
+
+                     \c[14]Item\c[0]: Opens the list of items available to use in battle.
+                     \c[14]Equip\c[0]: Allows you to change equipment of your character.
+                        Costs one quarter of a limit gauge. One Turn CD.
+\c[14]Switch\c[0]: Allows you to switch out the character for a reserve member.
+  Costs one limit gauge. One Turn CD.
+                                                                        \py[475]\fs[14]\fiContinued...
+<end entry>
+
+<name> Battle Commands II
+<title> Battle Commands
+<picture> partycommands; left; true
+<text>
+Pressing \c[17]Cancel\c[0] on the \c[14]Actor Command Screen\c[0] takes you to the \c[14]Party
+  Command Screen\c[0], giving you access to the following \c[17]Party Commands\c[0]:
+
+                          \c[14]Fight\c[0]: Takes you to the Actor Command Screen.
+
+                          \c[14]Status\c[0]: View your characters' status, including
+                            affected states and their descriptions.
+
+                          \c[14]Escape\c[0]: Attempts to flee from the battle. Escape
+                            chance depends on your party's \c[17]average agility\c[0].
+<end entry>
+
+# Stats
+
+<name> Stats
+<picture> generalstats; left; true
+<subentries> Primary Stats; Secondary Stats I; Secondary Stats II; Elemental Stats; Capabilities
+<text>
+                                There are many stats you can use to sway the
+                                  battle in your favor.
+                                \c[17]Max HP\c[0], \c[1]Max MP\c[0] and \c[30]Level\c[0] are \c[14]General Stats\c[0].
+
+
+\c[17]Max HP\c[0] determines how much damage your character can take before dying.
+\c[1]Max MP\c[0] determines how much MP your
+  character has for using skills.
+\c[30]Level\c[0] determines how experienced your
+  character is. Growth in level causes
+  growth in \c[14]Primary Stats\c[0].
+
+There are 4 categories of stats:
+\c[14]Primary Stats\c[0], \c[14]Secondary Stats\c[0], \c[14]Elemental Stats\c[0] and \c[14]Capabilities\c[0].
+                                                            \fs[14]\fiSelect for more information...
+<end entry>
+
+# Primary Stats
+
+<name> Primary Stats
+<picture> primarystats; left; true
+<text>
+There are 6 Primary Stats in the game:
+
+
+
+
+
+\py[228]\i[570]\c[18]Attack\c[0]: Determines the damage done by \c[14]Physical Skills\c[0].
+\py[263]\i[572]\c[30]Magic Attack\c[0]: Determines the damage done by \c[14]Magical Skills\c[0].
+\py[300]\i[571]\c[14]Defense\c[0]: Determines resistance to \c[14]Physical Skills\c[0].
+\py[337]\i[573]\c[1]Magic Defense\c[0]: Determines resistance to \c[14]Magical Skills\c[0].
+\py[374]\i[574]\c[3]Agility\c[0]: Determines \c[14]Turn Order\c[0] in battle, where faster characters act
+               first. It also boosts the character's \c[17]Critical Strike Chance\c[0].
+\py[435]\i[575]\c[17]Focus\c[0]: Determines the characters ability to deliver and resist \c[14]Status
+               Effects\c[0]. It also boosts the character's \c[17]Critical Strike Damage\c[0].
+<end entry>
+
+# Secondary Stats
+
+<name> Secondary Stats I
+<title> Secondary Stats
+<text>
+There are 16 Secondary Stats in the game:
+
+\c[17]Life Steal\c[0]: Determines the portion of \c[14]Physical Damage\c[0] dealt by the character
+               that is converted into \c[14]Health\c[0].
+\c[17]Spell Vamp\c[0]: Determines the portion of \c[14]Magical Damage\c[0] dealt by the character
+               that is converted into \c[14]Health\c[0].
+\c[17]Magic Steal\c[0]: Determines the portion of \c[14]Physical Damage\c[0] dealt by the
+               character that is converted into \c[14]MP\c[0].
+\c[17]Magic Vamp\c[0]: Determines the portion of \c[14]Magical Damage\c[0] dealt by the
+               character that is converted into \c[14]MP\c[0].
+\c[17]Accuracy\c[0]: Determines the chance of the character hitting the target with
+               their attacks and skills.
+\c[17]Critical Strike Chance\c[0]: determines the chance that the characters skill is
+               going to \c[14]Critically Strike\c[0], dealing bonus damage and causing
+               any \c[14]Critical Effects\c[0] that the character may have.
+                                                                        \fs[14]\fiContinued...
+<end entry>
+
+<name> Secondary Stats II
+<title> Secondary Stats
+<text>
+\c[17]Evasion\c[0]: Determines the chance of dodging \c[14]Physical Attacks\c[0].
+\c[17]Magic Evasion\c[0]: Determines the chance of dodging \c[14]Magical Attacks\c[0].
+\c[17]Damage from Physical\c[0]: Determines the portion of the damage received by the
+               character from \c[14]Physical Attacks\c[0].
+\c[17]Damage from Magic\c[0]: Determines the portion of the damage received by the
+               character from \c[14]Magical Attacks\c[0].
+\c[17]HP Regeneration\c[0]: Determines the percentage of \c[14]Max HP\c[0] healed by the
+               character at the end of each turn.
+\c[17]MP Regeneration\c[0]: Determines the percentage of \c[14]Max MP\c[0] healed by the
+               character at the end of each turn.
+\c[17]Heal and Shield Power\c[0]: Determines the effect of healing and shielding done
+               \c[14]by\c[0] the character.
+\c[17]Recovery Effect\c[0]: Determines the effect of healing and shielding done \c[14]on\c[0]
+               the character.
+\c[17]Aggro Rate\c[0]: Determines the chance of being targetted by enemies.
+\c[17]Cost Rate\c[0]: Determines the MP cost rate of the character using their skills.
+<end entry>
+
+# Elemental Stats
+
+<name> Elemental Stats
+<text>
+Each Element has two stats assosciated with it: \c[14]Proficiency\c[0] and \c[14]Rate\c[0].
+
+\c[14]Proficiency\c[0] determines the \c[17]bonus damage done\c[0] by a character using a skill of
+  that element. For example - 
+\c[18]0% Fire Proficiency\c[0]: Character deals normal damage with their fire skills.
+\c[18]20% Fire Proficiency\c[0]: Character deals 20% \c[17]extra damage\c[0] with their fire skills.
+\c[18]-20% Fire Proficiency\c[0]: Character deals 20% \c[17]less damage\c[0] with their fire skills.
+
+\c[14]Rate\c[0] determines the \c[17]proportion of damage taken\c[0] by a character from a skill
+  of that element. For example - 
+\c[18]100% Fire Rate\c[0]: Character takes normal damage from a fire skill.
+\c[18]20% Fire Rate\c[0]: Character takes only 20% of the damage from a fire skill.
+\c[18]-20% Fire Rate\c[0]: Character \c[17]heals\c[0] for 20% of the damage from a fire skill.
+<end entry>
+
+# Capability
+
+<name> Capabilities
+<text>
+Your character's \c[17]Capability\c[0] stat towards each enemy class determines their
+  proficiency against each class (View \c[14]Enemy Classes\c[0] in the Help File).
+
+The \c[17]higher your Capability vs a certain enemy class\c[0], the \c[17]more damage you
+deal to that enemy class\c[0] and the \c[17]less damage you take from that enemy class\c[0].
+
+Against an enemy of multiple classes, your character's capability towards each
+  class stacks \c[17]multiplicatively\c[0].
+
+Bonus damage from capability can stack indefinitely. However, damage
+  reduction from capability is capped at \c[17]50% Damage Reduction\c[0].
+
+Your character's capability towards each enemy class can be viewed in the
+\c[17]Status\c[0] screen of the Main Menu.
+<end entry>
+
+# Skills
+
+<name> Skills
+<subentries> Skill Types I; Skill Types II; Cooldowns; Instant Cast
+<text>
+Here, you'll find information about all \c[17]Skill Related\c[0] aspects of the game.
+<end entry>
+
+
+# Skill Types
+
+<name> Skill Types I
+<text>
+There are \c[17]3 Basic Skill Types\c[0] in the game: \c[14]Combat\c[0], \c[14]Special\c[0] and \c[14]Magic\c[0].
+Each character has access to \c[17]2 of the 3\c[0] Skill Types.
+
+\c[17]Combat Skills\c[0] primarily deal \c[14]Physical Damage\c[0].
+The damage dealt is dependent on the user's \c[14]\i[570]Attack\c[0] stat and the target's
+  \c[14]\i[571]Defense\c[0] stat.
+
+\c[17]Magic Skills\c[0] primarily deal \c[30]Magic Damage\c[0].
+The damage dealt is dependent on the user's \c[30]\i[572]Magic Attack\c[0] stat and the
+  target's \c[30]\i[573]Magic Defense\c[0] stat.
+
+\c[17]Special Skills\c[0] may deal either \c[14]Physical Damage\c[0] or \c[30]Magic Damage\c[0].
+The damage dealt is dependent on the user's \c[14]\i[570]Attack\c[0] and \c[30]\i[572]Magic
+Attack\c[0] stat and the target's \c[14]\i[571]Defense\c[0] and \c[30]\i[573]Magic Defense\c[0] stat.
+<end entry>
+
+<name> Skill Types II
+<text>
+Additionally, there are two more skill types available to all characters:
+  \c[14]Break Skills\c[0] and \c[14]Passive Skills\c[0].
+
+\c[14]Break Skills\c[0] are extremely powerful skills that require the \c[17]\i[630]Party Limit
+  Gauge\c[0] to use.
+Although powerful, they may take up a huge portion of the gauge, so use them
+  wisely!
+
+\c[14]Passive Skills\c[0] are skills that are not directly used in battle. Instead, they
+  provide passive benefits to the character.
+Passive Skills are obtained by mastering equipment passives. A list of your
+  character's learned passives can be viewed in their \c[14]Skills\c[0] Tab.
+<end entry>
+
+# Cooldowns
+
+<name> Cooldowns
+<picture> cooldown; left; true
+<text>
+Almost all skills have a \c[17]\i[540]Cooldown\c[0] assosciated with them.
+
+
+
+
+
+When a skill is used, it goes on its designated cooldown. While on cooldown,
+the skill cannot be used until its cooldown is over.
+
+Stronger skills usually have longer cooldowns.
+
+Cooldowns may be altered by skills and equipment.
+<end entry>
+
+# Instant Cast
+
+<name> Instant Cast
+<text>
+Some skills do not cost the character their turn to execute.
+
+These skills are called \c[14]Instant Cast Skills\c[0] and they have a \i[446] icon over
+  them.
+
+You may use as many \c[17]Instant Cast Skills\c[0] on your turn as necessary, though
+  they do have cooldowns, and overusing them could very quickly drain your
+  \c[1]MP\c[0].
+
+Certain status effects can cancel an Instant Cast Skills' Instant Use
+  Properties, making them cost a turn like usual skills.
+<end entry>
+
+
+
+
+
+# Equipment
+
+<name> Equipments
+<title> Equipment
+<subentries> Equipment; Equipment Types
+<text>
+Here, you'll find information about all \c[17]Equipment Related\c[0] aspects of the game.
+<end entry>
+
+# Equipment Basics
+
+<name> Equipment
+<picture> equipscreen; left; true
+<text>
+Equipments are extremely important in order to gain an edge in battle.
+                                  Not only do they provide useful stats, but
+                                    each equipment also has a \c[17]Passive\c[0] as well.
+                                  Sometimes, an equipment's passive may outweigh a
+                                    deficiency in stats in certain situations, so
+                                      customize accordingly!
+
+
+\py[250]Not all Equipment are created equal, even if they are the same item.
+Equipments of the same name, barring those obtained from shops, can have
+  varying stats, making some variances of the same equipment better than
+  others. Equipment passives, however, do not vary.
+So if you find equipment from loot, be sure to check for greater stat boosts!
+<end entry>
+
+# Equipment Types
+
+<name> Equipment Types
+<picture> equiptypes; left; true
+<text>
+Each character has \c[17]5 Equip Slots\c[0]:
+
+
+
+
+
+
+\c[14]Weapons\c[0] are unique to each character. They primarily provide offensive
+  bonuses.
+\c[14]Accessories\c[0] are unique to each character. They primarily provide bonuses
+  tailored towards the strengths of the character.
+\c[14]Armor\c[0] are divided into \c[17]Male\c[0] and \c[17]Female\c[0] armor. They primarily provide
+  defensive bonuses.
+All \c[14]Rings\c[0] are available to all characters. They provide unique benefits.
+\c[14]Boots\c[0] are divided into \c[17]General Boots\c[0] (available for all characters) and
+  \c[17]Male\c[0] and \c[17]Female\c[0] boots. They provide miscellaneous bonuses.
+<end entry>
+
+# Party Limit Gauge
+
+<name> Party Limit Gauge
+#<icon> 630
+<picture> limitgauge; left; true
+<text>
+The \c[14]Party Limit Gauge\c[0] is the gauge on the bottom right corner of the battle
+  screen.
+
+
+
+
+The gauge is shared with all members of the party, and it increases whenever
+  the party \c[17]takes or deals\c[0] damage.
+The whole gauge is divided into parts. The number above the gauge indicates
+  the number of Limit Gauges your party has filled.
+The gauge is carried over through battles, so you can use random encounters
+  to build it up.
+The Limit Gauge is used for various purposes, primarily being the cost of
+  \c[18]Break Skills\c[0].
+Changing Equipment and Party Members mid-battle also cost a portion of the
+  Limit Gauge.
+<end entry>
+
+# Elements
+
+<name> Elements
+<text>
+There are \c[17]8\c[0] different elements existing in the world.
+The elements are as follows:
+
+\py[119]\i[384]\c[18]Fire\c[0]     \px[150]\i[388]\c[20]Earth\c[0]    \px[300]\i[386]\c[17]Lightning\c[0]  \px[450]\c[27]\i[390]Holy
+\py[155]\i[387]\c[1]Water\c[0]     \px[150]\i[389]\c[3]Wind      \px[300]\i[385]\c[4]Ice     \px[450]\i[391]\c[30]Dark\c[0]
+
+\py[191]Enemies may be resistant or weak to certain elements.
+You can use \c[17]\is[4]\c[0] to identify and exploit these elemental weaknesses.
+
+Skills of a certain element have the element's icon next to them, so you can
+  easily identify the element of the skill.
+
+Each character has a certain \c[14]Proficiency\c[0] and \c[14]Rate\c[0] towards each element.
+  (View \c[14]Stats > Elemental Stats\c[0] for more information).
+
+All of your character's affinity towards each element can be viewed in their
+  \c[14]Status Screen\c[0].
+<end entry>
+
+
+#\py[150]\i[384]\c[18]Fire\c[0]     \px[200]\i[387]\c[1]Water\c[0]     \px[400]\i[388]\c[20]Earth\c[0]
+#\py[186]\i[389]\c[3]Wind     \px[200]\i[386]\c[17]Lightning\c[0]     \px[400]\i[385]\c[4]Ice
+#\py[222]\c[27]\i[390]Holy     \px[200]\i[391]\c[30]Dark\c[0]
+
+
+
+# Enemy Classes
+
+<name> Enemy Classes
+<text>
+
+Each enemy is categorised into one or multiple \c[17]classes\c[0]:
+There are 14 classes overall:
+
+\c[17]\it[72]\px[200]\it[73]\px[400]\it[74]
+\c[17]\it[75]\px[200]\it[76]\px[400]\it[77]
+\c[17]\it[78]\px[200]\it[79]\px[400]\it[80]
+\c[17]\it[81]\px[200]\it[82]\px[400]\it[83]
+\c[17]\it[84]\px[200]\it[85]
+
+\c[0]You can view an enemy's class by \c[17]Scanning\c[0] them.
+
+Your character's \c[17]Capability\c[0] stat towards each class determines their
+  proficiency against each enemy class.
+(View \c[14]Stats > Capabilities\c[0] for more information)
+<end entry>
+
+
+# Status Effects
+
+<name> Status Effects
+<subentries> States; Ailments I; Ailments II; Ailments III
+<text>
+Here, you'll find information about all \c[17]States Related\c[0] aspects of the game.
+<end entry>
+
+# States
+
+<name> States
+<text>
+\c[17]States\c[0] are special properties applied to battlers that affect the way they
+  function.
+
+States may have positive or negative impacts on battlers.
+Some states may affect individual battlers, while some may affect the whole
+  battlefield.
+
+Most states are unique to certain skills or enemies.
+
+States are crucial to taking advantage of the battle, and should be used
+  effectively.
+<end entry>
+
+# Ailments
+
+<name> Ailments I
+<title> Ailments
+<text>
+\c[17]Ailments\c[0] are common states that are usually applied as a secondary effect to
+  skills.
+All Ailments have negative effects on the affected units.
+
+Items that cure Ailments have a \i[192] icon next to them.
+
+All Ailments, except for \c[17]Stun\c[0], persist through battle.
+There are \c[17]11\c[0] total Ailments in the game:
+
+\c[14]Poison\c[0]: Unit takes \c[17]Neutral Magic Damage\c[0] per turn and has 20% lower \c[14]MAT\c[0].
+  Damage affected by inflicter's \c[30]MAT\c[0] stat and target's \c[30]MDF\c[0] stat.
+
+\c[14]Burn\c[0]: Unit takes \c[17]Fire Magic Damage\c[0] per turn and has 20% lower \c[14]ATK\c[0].
+  Damage affected by inflicter's \c[30]MAT\c[0] and \c[18]Fire Proficiency\c[0] stat and target's
+  \c[30]MDF\c[0] and \c[18]Fire Rate\c[0] stat.
+                                                                        \fs[14]\fiContinued...
+<end entry>
+
+<name> Ailments II
+<title> Ailments
+<text>
+\c[14]Bleed\c[0]: Unit takes \c[17]Neutral Physical Damage\c[0] per turn and healing effects on
+  unit are reduced by \c[17]30%\c[0]. Damage affected by inflicter's \c[14]ATK\c[0] stat and
+  target's \c[14]DEF\c[0] stat.
+
+\c[14]Curse\c[0]: Unit takes \c[17]Dark Magic Damage\c[0] per turn and unit's skills cost \c[17]50%\c[0] more
+  \c[1]MP\c[0]. Damage affected by inflicter's \c[30]MAT\c[0] and \c[31]Dark Proficiency\c[0] stat and
+  target's \c[30]MDF\c[0] and \c[31]Dark Rate\c[0] stat.
+
+\c[14]Blind\c[0]: Unit has \c[17]50%\c[0] lowered \c[14]Accuracy\c[0] and \c[17]20%\c[0] lower \c[14]DEF\c[0].
+
+\c[14]Silence\c[0]: Unit cannot use \c[14]Combat\c[0], \c[14]Special\c[0] or \c[14]Magic\c[0] Skills (\c[14]Break Skills\c[0] can
+  still be used) and has \c[17]20%\c[0] lower \c[30]MDF\c[0].
+
+\c[14]Paralyze\c[0]: Unit loses \c[17]Instant Cast Properties\c[0] and has a \c[17]50%\c[0] chance of their
+  action failing \c[18](action costs still count)\c[0].
+                                                                        \fs[14]\fiContinued...
+<end entry>
+<name> Ailments III
+<title> Ailments
+<text>
+\c[14]Freeze\c[0]: Unit cannot move. State is removed by \c[18]Fire Damage\c[0]. If unit is struck by
+  a \c[14]Physical Skill\c[0], the \c[1]ice shatters\c[0] and the skill deals \c[17]5x damage\c[0].
+
+\c[14]Confusion\c[0]: Unit attacks randomly, including allies.
+
+\c[14]Sleep\c[0]: Unit cannot move. If unit is struck by a \c[14]Magical Skill\c[0], the unit is \c[1]woken
+  up\c[0] and the skill deals \c[17]5x damage\c[0].
+
+\c[14]Stun\c[0]: Short lasting Ailment that causes the unit to not be able to move. All
+  damage received by the unit while stunned is increased by \c[17]50%\c[0] (damage
+  modifier can be affected by equipment).
+<end entry>

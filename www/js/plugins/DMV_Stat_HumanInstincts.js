@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/Dekita/DMV/master/DMV_Stat_HumanInstincts.js">redirected</a>.</body></html>
